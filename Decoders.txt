@@ -1,0 +1,12 @@
+{0:"No", 1:"Yes"}
+ 
+{0: 'male', 1: 'female'}
+{0: 'Inpatient', 1: 'Outpatient'}
+
+{0: 'Not transferred (admitted from home)', 1: 'From acute care hospital inpatient', 2: 'Outside emergency department', 3: 'Other'}
+{0: 'Home', 1: 'Other', 2: 'Rehab', 3: 'Skilled Care, Not Home', 4: 'Unknown'}
+{0: 'General', 1: 'MAC/IV Sedation', 2: 'Spinal', 3: 'Other'}
+{0: 'Urology', 1: 'Orthopedics', 2: 'General Surgery', 3: 'Neurosurgery', 4: 'Thoracic', 5: 'Otolaryngology (ENT)', 6: 'Vascular', 7: 'Plastics', 8: 'Cardiac Surgery', 9: 'Gynecology'}
+{0: 'NO', 1: 'NON-INSULIN', 2: 'INSULIN'}
+{0: 'No', 1: 'MODERATE EXERTION', 2: 'AT REST'}
+{0: '2-Clean/Contaminated', 1: '1-Clean', 2: '4-Dirty/Infected', 3: '3-Contaminated'}
